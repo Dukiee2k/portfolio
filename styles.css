@@ -83,6 +83,13 @@ hr{
   margin: 30px 0 0 0;
 }
 
+.Mobile-App{
+  height: 15%;
+  width: 15%;
+  float: left;
+  margin: 0 30px 0 0;
+}
+
 .skill-row{
   width: 50%;
   margin: 100px auto 100px auto;
@@ -159,3 +166,4 @@ a:hover{
   font-size: 0.75rem;
   padding: 20px 10px;
 }
+
